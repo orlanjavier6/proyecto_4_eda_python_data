@@ -68,7 +68,7 @@ mi_proyecto_eda/
 
 ## Acceso al Código
 **Consulta el cuaderno completo con todas las celdas de limpieza y gráficos ejecutadas:**
-[Abrir Análisis_exploratorio.ipynb](./Análisis_exploratorio.ipynb)
+[Abrir analisis_exploratorio.ipynb](./analisis_exploratorio.ipynb)
 
 ---
 
