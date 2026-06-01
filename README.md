@@ -12,15 +12,15 @@ El repositorio está organizado para facilitar la inspección del código y la e
 
 mi_proyecto_eda/
 
-├── bank-additional.csv                # Dataset original con los resultados de los contactos
+├── bank-additional.csv                            #Dataset original con los resultados de los contactos
 
-├── customer-details.xlsx              # Dataset original con la información socioeconómica de los clientes
+├── customer-details.xlsx                          #Dataset original con la información socioeconómica de los clientes
 
-├── DataProject_ Proyecto EDA con Python.docx  # Documento original con las directrices y enunciados
+├── DataProject_ Proyecto EDA con Python.docx      #Documento original con las directrices y enunciados
 
-├── analisis_exploratorio.ipynb        # Jupyter Notebook principal con el pipeline de código ejecutado y limpio
+├── analisis_exploratorio.ipynb                    #Jupyter Notebook principal con el pipeline de código ejecutado y limpio
 
-└── README.md                          # Descripción general del proyecto y documentación
+└── README.md                                      #Descripción general del proyecto y documentación
 
 ---
 
